@@ -9,5 +9,5 @@
 统一适用于纯IPV4、纯IPV6、双栈IPV4+IPV6，非root/root模式下都可直接输入以下脚本，后续再次执行脚本意味着更改root密码！！
 
 ```
-bash <(curl -sSL https://cdn.jsdelivr.net/gh/YG-tsj/neclickroot/root.sh)
+bash <(curl -sSL https://cdn.jsdelivr.net/gh/YG-tsj/oneclickroot/root.sh)
 ```
